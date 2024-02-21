@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achieveronkar&label=Profile%20views&color=0e75b6&style=flat" alt="achieveronkar" /> </p>
 
-- 🌱 I’m currently learning **Springboot,React.js**
+- 🌱 I’m currently looking for  **full stack developer position**
 
 - 💬 Ask me about **java**
 
