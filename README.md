@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ingoleonkar152@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dZ_g5T-oTl8rFs5tEyaUW-vO5Yedn5Da/view?usp=drive_link](https://drive.google.com/file/d/1dZ_g5T-oTl8rFs5tEyaUW-vO5Yedn5Da/view?usp=drive_link)
+- 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
